@@ -1,6 +1,7 @@
 # PROJECT CONDOR CAFÉ
 
-### Module condor-db
+## Module condor-db
+### Usage
 ```javascript
 const setupDB = require('condor-db')
 
