@@ -1,13 +1,12 @@
-<<<<<<< HEAD
 # Cafe Condor - App
-> The best App for restaurant for cafe's
+> The best App for restaurant cafe's
 
 [iofullstack-project](http://www.iofullstack.com/)
 
 ![condor-cafe app](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/cafe-condor.png)
 
 ## Technologies:
-![angular](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/angular.svg)
+![angular](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/angular.png)
 
 > The webapp is developed in Angular v6
 ### Install
@@ -28,7 +27,7 @@
 ```
 
 
-![MongoBD](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/mongodb.svg)
+![MongoBD](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/mongodb.png)
 
 ### Install and Usage
 
