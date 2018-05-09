@@ -5,7 +5,7 @@
 
 ![condor-cafe app](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/cafe-condor.png)
 
-## Technologies:
+## Full-Stack MEAN Technologies:
 ![angular](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/angular.png)
 
 > The webapp is developed in Angular v6
