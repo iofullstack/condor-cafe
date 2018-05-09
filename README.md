@@ -4,7 +4,7 @@
 [iofullstack-project](http://www.iofullstack.com/)
 
 ## Full-Stack MEAN Technologies:
-![angular](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/angular.png)
+![angular](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/angular-black.png)
 
 > The webapp is developed in Angular v6
 ### Install
@@ -25,7 +25,7 @@
 ```
 
 
-![MongoBD](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/mongodb.png)
+![MongoBD](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/mongodb-black.png)
 
 ### Install and Usage
 
