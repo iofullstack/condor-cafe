@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cafe Condor - App
 > The best App for restaurant for cafe's
 
@@ -26,9 +27,29 @@
   ng serve -o
 ```
 
+
+![MongoBD](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/mongodb.svg)
+
+### Install and Usage
+
+```javascript
+const setupDB = require('condor-db')
+
+setupDB(config).then(db => {
+  const { Table } = db
+}).catch(err => console.error(err))
+```
+
 ## Great!!
 > This is a project development by:
 
+### Dev. Gary Guzman
 ![Gary Guzman](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/perfil-gary.png)
 
+[GitHub: garyDav](https://github.com/garyDav)
+
+### Dev. Jose Chirinos
 ![Jose Chirinos](https://raw.githubusercontent.com/iofullstack/condor-cafe/master/docs/perfil-jose.png)
+
+[GitHub: JoseChirinos](https://github.com/JoseChirinos)
+
